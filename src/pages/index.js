@@ -26,7 +26,7 @@ const IndexPage = () => (
         <Row>
           <Col xs={12} lg={8}>
             <h1>
-              Simplify your
+              Build your
               <br />
               projects for
               <br />
@@ -62,8 +62,8 @@ const IndexPage = () => (
               Simplify is a multidisciplinary creative company at the
               intersection of multimedia, design and technology. Born from a
               masters discipline from the University of Porto called Project
-              Management Laboratory, Simplify currently has 48 collaborators and
-              4 products.
+              Management Laboratory, Simplify currently has 4 collaborators and
+              2 products.
             </p>
           </Col>
         </Row>
